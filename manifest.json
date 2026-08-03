@@ -1,0 +1,19 @@
+{
+ "revision": 4,
+ "packs": [
+  {
+   "id": "pack_001",
+   "file": "pack_001.json",
+   "version": 4,
+   "sha256": "51d2306d6dadc029ab2a9b926c19ad0ec20874e5c292dc0ef38761a6000f65d6",
+   "levels": 212
+  },
+  {
+   "id": "pack_002",
+   "file": "pack_002.json",
+   "version": 2,
+   "sha256": "4ea2c5e7b5f5f69bbf6dfb7ff6d76f60e59ab574098c573bc0fe150b22647233",
+   "levels": 188
+  }
+ ]
+}
